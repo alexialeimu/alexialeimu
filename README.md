@@ -1,6 +1,7 @@
-Hi there! 👋🏼
+## About me
 
-I’m Alexia, a **frontend**-focused **full stack developer** with interest in **accessibility** and **UI design**.
+-   Full stack with frontend focus
+-   Also interested in accessibility and UI design
 
 <br/>
 
