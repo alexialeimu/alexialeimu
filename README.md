@@ -3,8 +3,6 @@
 -   Full stack with frontend focus
 -   Also interested in accessibility and UI design
 
-<br/>
-
 ## Tools & Technologies
 
 Tools and technologies I have used in my work/school/personal projects:
